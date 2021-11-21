@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">GeekHubLesson2Recyclerview</string>
+    <string name="editText">editText</string>
+    <string name="send">Send</string>
+    <string name="user_1_view">User 1 View</string>
+    <string name="user_2_view">User 2 View</string>
 </resources>
