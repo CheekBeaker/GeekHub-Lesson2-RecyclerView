@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">GeekHub-SecondProject-ChatBrick</string>
+    <string name="send">Send</string>
+    <string name="user_1">User1</string>
+    <string name="user_2">User2</string>
+</resources>
